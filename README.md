@@ -4,5 +4,6 @@ An example of a binary counter using HTML and CSS.
 
 <br><br><br><br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The project is finished but there isn't a demonstration of the Binary Counter.
 I'll do a video.
